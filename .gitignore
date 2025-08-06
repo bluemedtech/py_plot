@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+.idea/
+.vscode/
+venv/
+
+
+*.pyc
+*.pyo
+*.pyd
+*.txt
+
+
+# Ignore other unnecessary files
+.DS_Store
+.env
