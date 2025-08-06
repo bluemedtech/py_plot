@@ -1,3 +1,8 @@
+#
+# pip freeze > requirements.txt
+# pip freeze | grep -v "^-e" > requirements.txt
+# pip install -r requirements.txt
+#
 import ast
 import tkinter as tk
 from tkinter import filedialog, ttk
